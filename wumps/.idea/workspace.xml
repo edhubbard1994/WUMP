@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="814" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Comp 371/cs371f19p0" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Comp 371/cs371f19p1a" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Comp 371/cs371f19p3" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
